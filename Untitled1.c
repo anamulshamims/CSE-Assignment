@@ -1,5 +1,3 @@
-/*Write a function to compute the factorial of a number, and use it to print the
-factorials of the numbers 1-7.*/
 #include <stdio.h>
 #include <conio.h>
 int main()
